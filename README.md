@@ -1,2 +1,2 @@
 # Baliotis
-My IT interersts
+My IT  interersts(python quality software)
